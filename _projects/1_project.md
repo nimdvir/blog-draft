@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: image Nim
 description: with background image
 img: assets/img/12.jpg
 importance: 1
