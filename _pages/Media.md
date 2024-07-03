@@ -1,11 +1,10 @@
 ---
 layout: page
 title: Media
-permalink: /
-media/
+permalink: /media/
 description: my media work
 nav: true
-nav_order: 3
+nav_order: 2
 display_categories: [interview, video, about me]
 horizontal: false
 ---
