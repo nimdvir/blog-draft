@@ -8,6 +8,7 @@ category: interview
 related_publications: true
 ---
 
+![2024_01_22 Nimrod Dvir_IMG_0027 copy][imageLink]
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
@@ -79,3 +80,6 @@ Here's the code for the last row of images above:
 ```
 
 {% endraw %}
+
+
+[imageLink]: https://i.imgur.com/E0rKu4n.jpeg

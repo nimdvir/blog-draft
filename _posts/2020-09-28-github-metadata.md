@@ -1,4 +1,4 @@
----
+![2024_01_22 Nimrod Dvir_IMG_0028 copy](/assets/2024_01_22%20Nimrod%20Dvir_IMG_0028%20copy.jpg)---
 layout: post
 title: a post with github metadata
 date: 2020-09-28 21:01:00
