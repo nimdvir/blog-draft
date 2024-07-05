@@ -1,4 +1,4 @@
-![2024_01_22 Nimrod Dvir_IMG_0028 copy](/assets/2024_01_22%20Nimrod%20Dvir_IMG_0028%20copy.jpg)---
+---
 layout: post
 title: a post with github metadata
 date: 2020-09-28 21:01:00
@@ -23,7 +23,7 @@ A sample blog page that demonstrates the accessing of github meta data.
 
 ## Additional Reading
 
-- If you're recieving incorrect/missing data, you may need to perform a Github API<a href="https://github.com/jekyll/github-metadata/blob/master/docs/authentication.md"> authentication</a>.
+- If you're recieving incorrect/missing data, you may need to perform a Github API<a href="https://github.com/jekyll/github-metadata/blob/master/docs/authentication.md">authentication</a>.
 - Go through this <a href="https://jekyll.github.io/github-metadata/">README</a> for more details on the topic.
 - <a href= "https://github.com/jekyll/github-metadata/blob/master/docs/site.github.md">This page</a> highlights all the feilds you can access with github-metadata.
   <br />
