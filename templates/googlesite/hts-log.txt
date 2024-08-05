@@ -1,0 +1,100 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 05 Aug 2024 11:09:51 at https://www.nimdvir.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Pns2u1%s%uN0%Ip7DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.nimdvir.com/ -O1 "C:\Users\nd115232\Downloads\googlesite" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:10:33	Error: 	"Not Found" (404) at link https://lh5.googleusercontent.com/proxy/KSPPvLp6NPsFSP9leE7Ltdwu7ayarFVFI63xM5wxvwI3tZfmT0VTcoEyABeG5n7ug6bMOo4vjrNsSmhV9NYzTKWHCAxv6jVfmzFDaesnN25lJs0-uwu5OZzcIgDGKgqRBDekI18byGH8Tg2ZUobkZmnHZ4MOInfkzpA30-5IXf_7MzXsCH5ADSpwqP-Sy_fe1fYmk6ZTmuDMWml_r2jbOdgkISnLXufQmBo_9hgU-AqXr801LYISzq7odHzEkS6x7SpYrKrRnrDs7yC2ZcNtT53my2uGo085U8CqSU-0viNrxWor6enL98jYaeSMJnZUijhGZ05gns2dl7SdmFuLrIIJqN8JwihmqvAgcLtIE1MDZU61e9kGiQzhoGRAksB2oBLbyDpcKWr0ZsCZzyPsEBfxdCN-zAtA-u-YnzkMnteikMsxf2w5HatrYRKiKf7SBHr_tpn46RUI (from https://www.nimdvir.com/portfolio/projects/golf-buddy)
+11:10:33	Error: 	"Not Found" (404) at link https://lh5.googleusercontent.com/proxy/57vJrIGtDbUXKX5mYt_lWhUcixzYE7CdToeTyUcn9Ti4YzwrzR-tCkvZJDlKlpbcgDUgYr9RoKU-3gRyFbrUcJcep7tHhOvJeCxfayXBbnxVeeBt7d3h6OG6EDcmqM8BcjUGaHckD2H4KsEIp91wlJIZzUcUswJ-AUNVdp5AS73rDXo8qvPbCYbav_ADhMs_RPAAAWTKtxaJKkOKc_GP6s-By478LR-KnwfWLQ7Cdve8Ht_-1I9EQlVHp9hMyggQNoNjTMpCgIiqzvi_gCMpoN1h_6zL1deuiq2u48G_vJLNJWwwS8Y2Y1uocAj-GZBzvNmaUE3mfmBvhQUmQ_yUrbGOv-3pnsjiSq_HLQGfLXSEg4AuvrL3-1M596ua_-xk0_KERsbr24VElpJMWtEbA0tEVwOL1czneD-nLR5R6rhdSPpwJvwTa1IWmMDWT0POuZHG6d5KIpYPWw (from https://www.nimdvir.com/portfolio/projects/costco)
+11:10:41	Warning: 	HTML file (159823 bytes) retransferred due to lack of cache: https://www.nimdvir.com/home
+11:10:56	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.nimdvir.com/home (from https://www.nimdvir.com/)
+11:11:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://fonts.googleapis.com/css?family=Bitter%3Ai%2Cbi%2C700%2C400&display=swap
+11:12:38	Warning: 	HTML file (82541 bytes) retransferred due to lack of cache: https://www.nimdvir.com/portfolio/ongoing-research/sticky
+11:12:46	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.nimdvir.com/portfolio/ongoing-research/sticky (from https://www.nimdvir.com/portfolio)
+11:12:46	Warning: 	HTML file (82888 bytes) retransferred due to lack of cache: https://www.nimdvir.com/portfolio/ongoing-research/information-engagement
+11:12:55	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.nimdvir.com/portfolio/ongoing-research/information-engagement (from https://www.nimdvir.com/portfolio)
+11:12:55	Warning: 	HTML file (111104 bytes) retransferred due to lack of cache: https://www.nimdvir.com/portfolio/projects/golf-buddy
+11:13:05	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.nimdvir.com/portfolio/projects/golf-buddy (from https://www.nimdvir.com/portfolio)
+11:13:05	Warning: 	HTML file (101132 bytes) retransferred due to lack of cache: https://www.nimdvir.com/portfolio/projects/barrier-free-living
+11:13:16	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.nimdvir.com/portfolio/projects/barrier-free-living (from https://www.nimdvir.com/portfolio)
+11:13:16	Warning: 	HTML file (103381 bytes) retransferred due to lack of cache: https://www.nimdvir.com/portfolio/projects/nasher-sculpture-center
+11:13:26	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.nimdvir.com/portfolio/projects/nasher-sculpture-center (from https://www.nimdvir.com/portfolio)
+11:13:26	Warning: 	HTML file (99917 bytes) retransferred due to lack of cache: https://www.nimdvir.com/portfolio/projects/fieldstones
+11:13:38	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.nimdvir.com/portfolio/projects/fieldstones (from https://www.nimdvir.com/portfolio)
+11:13:38	Warning: 	HTML file (106916 bytes) retransferred due to lack of cache: https://www.nimdvir.com/portfolio/projects/dexcom
+11:13:48	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.nimdvir.com/portfolio/projects/dexcom (from https://www.nimdvir.com/portfolio)
+11:13:48	Warning: 	HTML file (104490 bytes) retransferred due to lack of cache: https://www.nimdvir.com/portfolio/projects/costco
+11:13:58	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.nimdvir.com/portfolio/projects/costco (from https://www.nimdvir.com/portfolio)
+11:13:58	Warning: 	HTML file (95739 bytes) retransferred due to lack of cache: https://www.nimdvir.com/portfolio/projects/zang-toi
+11:14:07	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.nimdvir.com/portfolio/projects/zang-toi (from https://www.nimdvir.com/portfolio)
+11:14:07	Warning: 	HTML file (86070 bytes) retransferred due to lack of cache: https://www.nimdvir.com/portfolio/projects/claimfame
+11:14:17	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.nimdvir.com/portfolio/projects/claimfame (from https://www.nimdvir.com/portfolio)
+11:14:17	Warning: 	HTML file (84220 bytes) retransferred due to lack of cache: https://www.nimdvir.com/portfolio/projects/timeout
+11:14:26	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.nimdvir.com/portfolio/projects/timeout (from https://www.nimdvir.com/portfolio)
+11:14:26	Warning: 	HTML file (95222 bytes) retransferred due to lack of cache: https://www.nimdvir.com/portfolio/projects/facebook
+11:14:36	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.nimdvir.com/portfolio/projects/facebook (from https://www.nimdvir.com/portfolio)
+11:14:36	Warning: 	HTML file (104888 bytes) retransferred due to lack of cache: https://www.nimdvir.com/portfolio/projects/trackimo
+11:14:46	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.nimdvir.com/portfolio/projects/trackimo (from https://www.nimdvir.com/portfolio)
+11:14:47	Error: 	"Not Found" (404) at link https://lh5.googleusercontent.com/proxy/KSPPvLp6NPsFSP9leE7Ltdwu7ayarFVFI63xM5wxvwI3tZfmT0VTcoEyABeG5n7ug6bMOo4vjrNsSmhV9NYzTKWHCAxv6jVfmzFDaesnN25lJs0-uwu5OZzcIgDGKgqRBDekI18byGH8Tg2ZUobkZmnHZ4MOInfkzpA30-5IXf_7MzXsCH5ADSpwqP-Sy_fe1fYmk6ZTmuDMWml_r2jbOdgkISnLXufQmBo_9hgU-AqXr801LYISzq7odHzEkS6x7SpYrKrRnrDs7yC2ZcNtT53my2uGo085U8CqSU-0viNrxWor6enL98jYaeSMJnZUijhGZ05gns2dl7SdmFuLrIIJqN8JwihmqvAgcLtIE1MDZU61e9kGiQzhoGRAksB2oBLbyDpcKWr0ZsCZzyPsEBfxdCN-zAtA-u-YnzkMnteikMsxf2w5HatrYRKiKf7SBHr_tpn46RUI (from https://www.nimdvir.com/portfolio/projects/golf-buddy)
+11:14:47	Error: 	"Not Found" (404) at link https://lh5.googleusercontent.com/proxy/57vJrIGtDbUXKX5mYt_lWhUcixzYE7CdToeTyUcn9Ti4YzwrzR-tCkvZJDlKlpbcgDUgYr9RoKU-3gRyFbrUcJcep7tHhOvJeCxfayXBbnxVeeBt7d3h6OG6EDcmqM8BcjUGaHckD2H4KsEIp91wlJIZzUcUswJ-AUNVdp5AS73rDXo8qvPbCYbav_ADhMs_RPAAAWTKtxaJKkOKc_GP6s-By478LR-KnwfWLQ7Cdve8Ht_-1I9EQlVHp9hMyggQNoNjTMpCgIiqzvi_gCMpoN1h_6zL1deuiq2u48G_vJLNJWwwS8Y2Y1uocAj-GZBzvNmaUE3mfmBvhQUmQ_yUrbGOv-3pnsjiSq_HLQGfLXSEg4AuvrL3-1M596ua_-xk0_KERsbr24VElpJMWtEbA0tEVwOL1czneD-nLR5R6rhdSPpwJvwTa1IWmMDWT0POuZHG6d5KIpYPWw (from https://www.nimdvir.com/portfolio/projects/costco)
+11:15:00	Warning: 	HTML file (159823 bytes) retransferred due to lack of cache: https://www.nimdvir.com/home
+11:15:02	Warning: 	HTML file (82541 bytes) retransferred due to lack of cache: https://www.nimdvir.com/portfolio/ongoing-research/sticky
+11:15:10	Warning: 	HTML file (82888 bytes) retransferred due to lack of cache: https://www.nimdvir.com/portfolio/ongoing-research/information-engagement
+11:15:15	Warning: 	HTML file (111104 bytes) retransferred due to lack of cache: https://www.nimdvir.com/portfolio/projects/golf-buddy
+11:15:18	Warning: 	HTML file (101132 bytes) retransferred due to lack of cache: https://www.nimdvir.com/portfolio/projects/barrier-free-living
+11:15:25	Warning: 	HTML file (103381 bytes) retransferred due to lack of cache: https://www.nimdvir.com/portfolio/projects/nasher-sculpture-center
+11:15:28	Warning: 	HTML file (99917 bytes) retransferred due to lack of cache: https://www.nimdvir.com/portfolio/projects/fieldstones
+11:15:34	Warning: 	HTML file (106916 bytes) retransferred due to lack of cache: https://www.nimdvir.com/portfolio/projects/dexcom
+11:15:38	Warning: 	HTML file (104490 bytes) retransferred due to lack of cache: https://www.nimdvir.com/portfolio/projects/costco
+11:15:45	Warning: 	HTML file (95739 bytes) retransferred due to lack of cache: https://www.nimdvir.com/portfolio/projects/zang-toi
+11:15:45	Warning: 	HTML file (86070 bytes) retransferred due to lack of cache: https://www.nimdvir.com/portfolio/projects/claimfame
+11:15:47	Warning: 	HTML file (84220 bytes) retransferred due to lack of cache: https://www.nimdvir.com/portfolio/projects/timeout
+11:15:51	Warning: 	HTML file (95222 bytes) retransferred due to lack of cache: https://www.nimdvir.com/portfolio/projects/facebook
+11:15:53	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.nimdvir.com/home (from https://www.nimdvir.com/)
+11:15:53	Warning: 	HTML file (104888 bytes) retransferred due to lack of cache: https://www.nimdvir.com/portfolio/projects/trackimo
+11:15:53	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.nimdvir.com/portfolio/ongoing-research/sticky (from https://www.nimdvir.com/portfolio)
+11:15:53	Warning: 	HTML file (159823 bytes) retransferred due to lack of cache: https://www.nimdvir.com/home
+11:15:55	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.nimdvir.com/portfolio/ongoing-research/information-engagement (from https://www.nimdvir.com/portfolio)
+11:15:55	Warning: 	HTML file (82541 bytes) retransferred due to lack of cache: https://www.nimdvir.com/portfolio/ongoing-research/sticky
+11:16:00	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.nimdvir.com/portfolio/projects/golf-buddy (from https://www.nimdvir.com/portfolio)
+11:16:00	Warning: 	HTML file (82888 bytes) retransferred due to lack of cache: https://www.nimdvir.com/portfolio/ongoing-research/information-engagement
+11:16:03	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.nimdvir.com/portfolio/projects/barrier-free-living (from https://www.nimdvir.com/portfolio)
+11:16:03	Warning: 	HTML file (111104 bytes) retransferred due to lack of cache: https://www.nimdvir.com/portfolio/projects/golf-buddy
+11:16:03	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.nimdvir.com/portfolio/projects/nasher-sculpture-center (from https://www.nimdvir.com/portfolio)
+11:16:03	Warning: 	HTML file (101132 bytes) retransferred due to lack of cache: https://www.nimdvir.com/portfolio/projects/barrier-free-living
+11:16:08	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.nimdvir.com/portfolio/projects/fieldstones (from https://www.nimdvir.com/portfolio)
+11:16:08	Warning: 	HTML file (103381 bytes) retransferred due to lack of cache: https://www.nimdvir.com/portfolio/projects/nasher-sculpture-center
+11:16:08	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.nimdvir.com/portfolio/projects/dexcom (from https://www.nimdvir.com/portfolio)
+11:16:08	Warning: 	HTML file (99917 bytes) retransferred due to lack of cache: https://www.nimdvir.com/portfolio/projects/fieldstones
+11:16:13	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.nimdvir.com/portfolio/projects/costco (from https://www.nimdvir.com/portfolio)
+11:16:13	Warning: 	HTML file (106916 bytes) retransferred due to lack of cache: https://www.nimdvir.com/portfolio/projects/dexcom
+11:16:13	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.nimdvir.com/portfolio/projects/zang-toi (from https://www.nimdvir.com/portfolio)
+11:16:13	Warning: 	HTML file (104490 bytes) retransferred due to lack of cache: https://www.nimdvir.com/portfolio/projects/costco
+11:16:17	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.nimdvir.com/portfolio/projects/claimfame (from https://www.nimdvir.com/portfolio)
+11:16:17	Warning: 	HTML file (95739 bytes) retransferred due to lack of cache: https://www.nimdvir.com/portfolio/projects/zang-toi
+11:16:18	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.nimdvir.com/portfolio/projects/timeout (from https://www.nimdvir.com/portfolio)
+11:16:18	Warning: 	HTML file (86070 bytes) retransferred due to lack of cache: https://www.nimdvir.com/portfolio/projects/claimfame
+11:16:23	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.nimdvir.com/portfolio/projects/facebook (from https://www.nimdvir.com/portfolio)
+11:16:23	Warning: 	HTML file (84220 bytes) retransferred due to lack of cache: https://www.nimdvir.com/portfolio/projects/timeout
+11:16:23	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.nimdvir.com/portfolio/projects/trackimo (from https://www.nimdvir.com/portfolio)
+11:16:23	Warning: 	HTML file (95222 bytes) retransferred due to lack of cache: https://www.nimdvir.com/portfolio/projects/facebook
+11:16:26	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.nimdvir.com/home (from https://www.nimdvir.com/)
+11:16:26	Warning: 	HTML file (104888 bytes) retransferred due to lack of cache: https://www.nimdvir.com/portfolio/projects/trackimo
+11:16:26	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.nimdvir.com/portfolio/ongoing-research/sticky (from https://www.nimdvir.com/portfolio)
+11:16:26	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.nimdvir.com/portfolio/ongoing-research/information-engagement (from https://www.nimdvir.com/portfolio)
+11:16:26	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.nimdvir.com/portfolio/projects/golf-buddy (from https://www.nimdvir.com/portfolio)
+11:16:26	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.nimdvir.com/portfolio/projects/barrier-free-living (from https://www.nimdvir.com/portfolio)
+11:16:26	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.nimdvir.com/portfolio/projects/nasher-sculpture-center (from https://www.nimdvir.com/portfolio)
+11:16:26	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.nimdvir.com/portfolio/projects/fieldstones (from https://www.nimdvir.com/portfolio)
+11:16:26	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.nimdvir.com/portfolio/projects/dexcom (from https://www.nimdvir.com/portfolio)
+11:16:26	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.nimdvir.com/portfolio/projects/costco (from https://www.nimdvir.com/portfolio)
+11:16:27	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.nimdvir.com/portfolio/projects/zang-toi (from https://www.nimdvir.com/portfolio)
+11:16:28	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.nimdvir.com/portfolio/projects/claimfame (from https://www.nimdvir.com/portfolio)
+11:16:28	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.nimdvir.com/portfolio/projects/timeout (from https://www.nimdvir.com/portfolio)
+11:16:28	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.nimdvir.com/portfolio/projects/facebook (from https://www.nimdvir.com/portfolio)
+11:16:29	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.nimdvir.com/portfolio/projects/trackimo (from https://www.nimdvir.com/portfolio)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 38 seconds : 131 links scanned, 110 files written (17716760 bytes overall) [18333567 bytes received at 46064 bytes/sec], 2027758 bytes transferred using HTTP compression in 22 files, ratio 17%
+(18 errors, 71 warnings, 0 messages)
