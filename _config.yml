@@ -1,67 +1,33 @@
-# Site settings
-title: Nim Dvir - Personal Website
+title: Nimrod (Nim) Dvir
+first_name: Nimrod
+middle_name: (Nim)
+last_name: Dvir
 email: ndvir@albany.edu
-description: > 
-  Personal website of Nim Dvir, featuring my portfolio, blog, and publications.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://nimdvir.github.io" # the base hostname & protocol for your site
-github_username: nimdvir
-linkedin_username: nimdvir
+description: > # the ">" symbol means to ignore newlines until "footer_text:"
+  Personal website of Nim Dvir. Based on [*folio](https://github.com/bogoli/-folio) design.
+footer_text: >
+  Nim Dvir is a UX and AI researcher
+keywords: UX, AI, HCI, Jekyll, academic-website, portfolio-website
+lang: en
+icon: ⚛️
+url: https://nimdvir.github.io/
+baseurl: ""
+last_updated: false
+impressum_path: ""
+back_to_top: true
 
-# Social links
-social:
-  linkedin: https://www.linkedin.com/in/nimdvir
-  google_scholar: https://bit.ly/ndvirgscholar
-  twitter: 
-  github: https://github.com/nimdvir
-  email: ndvir@albany.edu
+# Third-party libraries
+third_party_libraries:
+  download: false
+  bootstrap-table:
+    integrity:
+      css: "sha256-uRX+PiRTR4ysKFRCykT8HLuRCub26LgXJZym3Yeom1c="
+      js: "sha256-4rppopQE9POKfukn2kEvhJ9Um25Cf6+IDVkARD0xh78="
+    url:
+      css: "https://cdn.jsdelivr.net/npm/bootstrap-table@{{version}}/dist/bootstrap-table.min.css"
+      js: "https://cdn.jsdelivr.net/npm/bootstrap-table@{{version}}/dist/bootstrap-table.min.js"
+    version: "1.22.4"
+  # Add other libraries as needed
 
-# Analytics
-google_analytics: G-0PZ8NW81X4
-google_site_verification: VQxw8QuMHnjgy6nsv_vRvzDutyNsjwolTAGZHhZ4doU
+# Other configurations...
 
-# Blog settings
-blog_name: Blog
-blog_description: Insights on UX, AI, and HCI.
-permalink: /blog/:year/:title/
-lsi: true
-
-# Pagination
-pagination:
-  enabled: true
-
-# Related blog posts
-related_blog_posts:
-  enabled: true
-  max_related: 5
-
-# Giscus comments (if you want to enable comments)
-giscus:
-  repo: nimdvir/your-repo-name
-  repo_id: your-repo-id
-  category: Comments
-  category_id: your-category-id
-  mapping: title
-  strict: 1
-  reactions_enabled: 1
-  input_position: bottom
-  theme: preferred_color_scheme
-
-# Get external JSON data
-jekyll_get_json:
-  - data: resume
-    json: assets/json/resume.json
-
-jsonresume:
-  - basics
-  - work
-  - education
-  - publications
-  - projects
-  - volunteer
-  - awards
-  - certificates
-  - skills
-  - languages
-  - interests
-  - references
