@@ -3,68 +3,161 @@
     "name": "Nimrod Dvir",
     "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "ndvir@albany.edu",
+    "phone": "+19174262623",
+    "url": "https://nimdvir.github.io",
+    "summary": "A UX and AI researcher with a strong background in Human-Computer Interaction and Information Systems.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "",
+      "city": "Albany",
       "countryCode": "US",
-      "region": "California"
+      "region": "New York"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "nimdvir",
+        "url": "https://www.linkedin.com/in/nimdvir"
+      },
+      {
+        "network": "Google Scholar",
+        "username": "NimDvir",
+        "url": "https://bit.ly/ndvirgscholar"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "SUNY Albany",
+      "position": "Mixed Methods Researcher",
+      "url": "https://www.albany.edu",
+      "startDate": "2015-08-01",
+      "endDate": "Present",
+      "summary": "Led experimental research projects focusing on human-computer interaction, utilizing machine learning to analyze data from extensive human-related surveys and experiments.",
+      "highlights": [
+        "Achieved a 40% increase in user engagement through sophisticated algorithms in Python, NLP, and text generation.",
+        "Fostered collaborative partnerships with key industry clients including Costco, Goldman Sachs Ayco, Con Edison, Pearson, and Dexcom."
+      ]
+    },
+    {
+      "name": "ClaimFame",
+      "position": "UX Researcher & Development Manager",
+      "url": "https://www.claimfame.com",
+      "startDate": "2014-11-01",
+      "endDate": "2015-07-01",
+      "summary": "Instrumental in launching a specialized online learning platform for entertainment industry professionals.",
+      "highlights": [
+        "Played a pivotal role in enhancing UX, marketing, and product development, leading to a 70% increase in user retention."
+      ]
+    },
+    {
+      "name": "WZO",
+      "position": "UX Researcher & Product Manager",
+      "url": "https://www.wzo.org.il",
+      "startDate": "2012-01-01",
+      "endDate": "2014-11-01",
+      "summary": "Managed the data-driven development and optimization of CRM systems and digital services.",
+      "highlights": [
+        "Significantly improved operational efficiency and promoted career development in computer science."
+      ]
     }
   ],
   "volunteer": [
     {
       "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
+      "location": "New York, NY, USA",
       "position": "Lead Organizer",
       "url": "https://example.com",
       "startDate": "2014-04-01",
       "endDate": "2015-07-01",
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "highlights": [
+        "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
+      ]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "The State University of New York at Albany",
+      "location": "Albany, NY, USA",
+      "url": "https://www.albany.edu",
+      "area": "Computer and Information Science",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2016-01-01",
+      "endDate": "2022-11-01",
+      "score": "",
+      "courses": ["Human-Computer Interaction", "Management Information Systems"]
+    },
+    {
+      "institution": "Baruch College-The City University of New York (CUNY)",
+      "location": "New York, NY, USA",
+      "url": "https://www.baruch.cuny.edu",
+      "area": "Marketing & Information Systems",
+      "studyType": "MBA",
+      "startDate": "2012-01-01",
+      "endDate": "2014-12-01",
+      "score": "summa cum laude",
+      "courses": []
+    },
+    {
+      "institution": "New York University (NYU)",
+      "location": "New York, NY, USA",
+      "url": "https://www.nyu.edu",
+      "area": "Political Science & Journalism",
+      "studyType": "BA",
+      "startDate": "2007-01-01",
+      "endDate": "2011-12-01",
+      "score": "summa cum laude",
+      "courses": []
+    },
+    {
+      "institution": "Open University of Israel",
+      "location": "Tel Aviv, Israel",
+      "url": "https://www.openu.ac.il",
+      "area": "Social Sciences & Humanities",
+      "studyType": "BA",
+      "startDate": "2005-01-01",
+      "endDate": "2009-12-01",
+      "score": "",
+      "courses": []
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Excellence in Research Project Award",
+      "date": "2023-01-01",
+      "awarder": "State University of New York at Albany",
+      "url": "https://www.albany.edu",
+      "summary": ""
+    },
+    {
+      "title": "Distinguished Dissertation Award",
+      "date": "2023-01-01",
+      "awarder": "State University of New York at Albany",
+      "url": "https://www.albany.edu",
+      "summary": ""
+    },
+    {
+      "title": "Full Academic Scholarship",
+      "date": "2016-01-01",
+      "awarder": "State University of New York at Albany",
+      "url": "https://www.albany.edu",
+      "summary": ""
+    },
+    {
+      "title": "Doctoral Research Assistantship",
+      "date": "2015-01-01",
+      "awarder": "State University of New York at Albany",
+      "url": "https://www.albany.edu",
+      "summary": ""
+    },
+    {
+      "title": "Presidential Honor Scholarship",
+      "date": "2011-01-01",
+      "awarder": "New York University",
+      "url": "https://www.nyu.edu",
+      "summary": ""
     }
   ],
   "certificates": [
@@ -74,127 +167,145 @@
       "issuer": "Stanford University",
       "url": "https://example.com",
       "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Sticky Words: A Computational Linguistics Approach to Assessment and Manipulation of Information Engagement",
+      "publisher": "ProQuest",
+      "releaseDate": "2022-01-01",
+      "url": "https://www.proquest.com/docview/2753692156",
+      "summary": ""
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Promoting Ethical Digital Engagement: Educators’ Insights on Using Case Studies in Digital Citizenship Pedagogy",
+      "publisher": "Educational Technology, Media & Library Science eJournal",
+      "releaseDate": "2023-01-01",
+      "url": "https://doi.org/10.2139/ssrn.4532611",
+      "summary": ""
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Process of information engagement: Integrating information behavior and user engagement",
+      "publisher": "Proceedings of the Association for Information Science and Technology",
+      "releaseDate": "2020-01-01",
+      "url": "https://doi.org/10.1002/pra2.407",
+      "summary": ""
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Programming & Data Management",
+      "level": "Expert",
+      "icon": "fa-solid fa-code",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "JavaScript",
+        "SQL",
+        "R",
+        "MySQL",
+        "Behavioral Science",
+        "Cognitive Psychology"
+      ]
+    },
+    {
+      "name": "Advanced Data Science & Statistical Analysis",
+      "level": "Expert",
+      "icon": "fa-solid fa-chart-bar",
+      "keywords": [
+        "Stata",
+        "SPSS",
+        "JASP",
+        "MATLAB",
+        "T-Tests",
+        "Regressions",
+        "ANOVA"
+      ]
+    },
+    {
+      "name": "AI, NLP, and LLM Expertise",
+      "level": "Expert",
+      "icon": "fa-solid fa-brain",
+      "keywords": [
+        "AI",
+        "NLP",
+        "LLMs",
+        "Supervised Fine-Tuning",
+        "Reinforcement Learning",
+        "NLTK",
+        "spaCy",
+        "TensorFlow"
+      ]
+    },
+    {
+      "name": "Human-Computer Interaction & Experimental Research",
+      "level": "Expert",
+      "icon": "fa-solid fa-user",
+      "keywords": [
+        "HCI",
+        "Survey Design",
+        "Experiment Methodology",
+        "Usability Tests",
+        "Google Forms",
+        "Qualtrics"
+      ]
+    },
+    {
+      "name": "Prototyping & Design",
+      "level": "Expert",
+      "icon": "fa-solid fa-pencil-ruler",
+      "keywords": [
+        "Figma",
+        "Adobe XD",
+        "UI/UX Design"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
+      "language": "English",
+      "fluency": "Fluent",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "Hebrew",
+      "fluency": "Native speaker",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Technology",
+      "icon": "fa-solid fa-microchip",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Natural Language Processing",
+        "User Experience"
       ]
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
+      "name": "Dr. Suraj Commuri",
       "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "Associate Professor and Chair, Massry School of Business, University at Albany SUNY. Email: scommuri@albany.edu, Phone: 518-956-8380"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Dr. Jennifer Goodall",
+      "icon": "fa-solid fa-laptop",
+      "reference": "Vice Dean, College of Emergency Preparedness, Homeland Security and Cybersecurity, University at Albany SUNY. Email: jgoodall@albany.edu, Phone: 518-949-3283"
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "name": "AI and Predictive Modeling Projects",
+      "summary": "Led the development and implementation of pioneering AI and predictive modeling projects.",
+      "highlights": [
+        "Achieved a 40% increase in user engagement through sophisticated algorithms in Python, NLP, and text generation."
+      ],
       "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "endDate": "Present",
+      "url": "https://www.albany.edu"
     }
   ]
 }
