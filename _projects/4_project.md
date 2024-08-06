@@ -2,9 +2,11 @@
 layout: page
 title: project 4
 description: another without an image
-img:
+img: 
 importance: 3
 category: fun
+created: 2024-08-05T12:23
+updated: 2024-08-06T16:53
 ---
 
 Every project has a beautiful feature showcase page.

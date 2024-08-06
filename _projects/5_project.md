@@ -5,6 +5,8 @@ description: a project with a background image
 img: assets/img/1.jpg
 importance: 3
 category: fun
+created: 2024-08-05T12:23
+updated: 2024-08-06T16:53
 ---
 
 Every project has a beautiful feature showcase page.

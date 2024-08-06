@@ -6,6 +6,8 @@ description: this is what included typograms code could look like
 tags: formatting diagrams
 categories: sample-posts
 typograms: true
+created: 2024-08-05T12:23
+updated: 2024-08-06T16:53
 ---
 
 This is an example post with some [typograms](https://github.com/google/typograms/) code.

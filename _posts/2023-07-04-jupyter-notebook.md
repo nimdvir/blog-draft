@@ -7,6 +7,8 @@ tags: formatting jupyter
 categories: sample-posts
 giscus_comments: true
 related_posts: false
+created: 2024-08-05T12:23
+updated: 2024-08-06T16:53
 ---
 
 To include a jupyter notebook in a post, you can use the following code:

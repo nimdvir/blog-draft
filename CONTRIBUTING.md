@@ -1,3 +1,7 @@
+---
+created: 2024-08-05T12:23
+updated: 2024-08-06T16:54
+---
 # Contributing to al-folio
 
 Thank you for considering contributing to al-folio!

@@ -6,6 +6,8 @@ description: this is what included geojson code could look like
 tags: formatting charts maps
 categories: sample-posts
 map: true
+created: 2024-08-05T12:23
+updated: 2024-08-06T16:53
 ---
 
 This is an example post with some [geojson](https://geojson.org/) code. The support is provided thanks to [Leaflet](https://leafletjs.com/). To create your own visualization, go to [geojson.io](https://geojson.io/).

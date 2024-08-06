@@ -1,3 +1,7 @@
+---
+created: 2024-08-05T12:23
+updated: 2024-08-06T16:54
+---
 # Frequently Asked Questions
 
 Here are some frequently asked questions. If you have a different question, please check if it was not already answered in the Q&A section of the [GitHub Discussions](https://github.com/alshedivat/al-folio/discussions/categories/q-a). If not, feel free to ask a new question there.

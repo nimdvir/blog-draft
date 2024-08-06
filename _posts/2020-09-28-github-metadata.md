@@ -6,6 +6,8 @@ description: a quick run down on accessing github metadata.
 tags: metadata
 categories: sample-posts external-services
 related-posts: true
+created: 2024-08-05T12:23
+updated: 2024-08-06T16:53
 ---
 
 A sample blog page that demonstrates the accessing of github meta data.

@@ -1,3 +1,7 @@
+---
+created: 2024-08-05T12:23
+updated: 2024-08-06T16:54
+---
 # Customize
 
 Here we will give you some tips on how to customize the website. One important thing to note is that **ALL** the changes you make should be done on the **main** branch of your repository. The `gh-pages` branch is automatically overwritten every time you make a change to the main branch.

@@ -7,6 +7,8 @@ tags: comments
 categories: sample-posts external-services
 disqus_comments: true
 related_posts: true
+created: 2024-08-05T12:23
+updated: 2024-08-06T16:53
 ---
 
 This post shows how to add DISQUS comments.

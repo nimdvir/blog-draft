@@ -9,6 +9,8 @@ giscus_comments: true
 related_posts: false
 toc:
   sidebar: left
+created: 2024-08-05T12:23
+updated: 2024-08-06T16:53
 ---
 
 This post shows how to add a table of contents as a sidebar.

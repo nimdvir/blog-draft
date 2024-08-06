@@ -5,8 +5,12 @@ permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories:
+  - work
+  - fun
 horizontal: false
+created: 2024-08-05T12:23
+updated: 2024-08-06T16:53
 ---
 
 <!-- pages/projects.md -->
